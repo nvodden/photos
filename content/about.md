@@ -11,7 +11,7 @@ Hi everyone!
 I'm Neil, an amateur photographer from South Wales, UK.
 
 
-{{< figure src="/galleries/self/profile.jpg" alt="Profile photo" >}}
+{{< figure src="/images/profile.jpg" alt="Profile photo" >}}
 
 
 Amongst my many hobbies, I've been interested in photography for a long time and have dabbled in the hobby on and off over the years. 
