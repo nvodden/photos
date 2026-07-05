@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Galleries on </title>
+    <link>http://localhost:1313/galleries/</link>
+    <description>Recent content in Galleries on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://localhost:1313/galleries/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Action</title>
+      <link>http://localhost:1313/galleries/action/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/galleries/action/</guid>
+        <media:content url="http://localhost:1313/galleries/action/jetski1_hu_78a7cec47141d43b.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/galleries/action/jetski1_hu_78a7cec47141d43b.jpg&quot; /&gt;
+          &lt;p&gt;Fast-paced action and adventure photos&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Astro</title>
+      <link>http://localhost:1313/galleries/astro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/galleries/astro/</guid>
+        <media:content url="http://localhost:1313/galleries/astro/horseheadNebula_hu_2b299a18423f04c0.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/galleries/astro/horseheadNebula_hu_2b299a18423f04c0.jpg&quot; /&gt;
+          &lt;p&gt;Night sky, Milky Way and deep sky photos&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Nature</title>
+      <link>http://localhost:1313/galleries/nature/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/galleries/nature/</guid>
+        <media:content url="http://localhost:1313/galleries/nature/sunset1_hu_1e5c8183f9a9486a.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/galleries/nature/sunset1_hu_1e5c8183f9a9486a.jpg&quot; /&gt;
+          &lt;p&gt;Nature, landscapes and the great outdoors.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Self</title>
+      <link>http://localhost:1313/galleries/self/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/galleries/self/</guid>
+        <media:content url="http://localhost:1313/galleries/self/shooting_hu_6ec3262d97bfa7fb.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/galleries/self/shooting_hu_6ec3262d97bfa7fb.jpg&quot; /&gt;
+          &lt;p&gt;Me in various places and poses. So vain! :D&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Wildlife</title>
+      <link>http://localhost:1313/galleries/wildlife/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/galleries/wildlife/</guid>
+        <media:content url="http://localhost:1313/galleries/wildlife/Lorikeet_hu_8a6716fe2b403dd7.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/galleries/wildlife/Lorikeet_hu_8a6716fe2b403dd7.jpg&quot; /&gt;
+          &lt;p&gt;Wildlife and animal photos&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

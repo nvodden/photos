@@ -1,0 +1,19 @@
+baseURL = 'https://photos.vodden.uk'
+locale = 'en-us'
+title = ''
+theme = "gallery"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Galleries"
+url = "/galleries/"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 3
