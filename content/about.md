@@ -10,7 +10,6 @@ Hi everyone!
 
 I'm Neil, an amateur photographer from South Wales, UK.
 
-
 <img src="/images/profile.jpg" alt="Profile photo" style="max-width: 300px; border-radius: 8px;">
 
 Amongst my many hobbies, I've been interested in photography for a long time and have dabbled in the hobby on and off over the years. 
