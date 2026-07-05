@@ -10,8 +10,6 @@ Hi everyone!
 
 I'm Neil, an amateur photographer from South Wales, UK.
 
-![Profile photo](/images/profile.jpg)
-
 Amongst my many hobbies, I've been interested in photography for a long time and have dabbled in the hobby on and off over the years. 
 
 My first 'real' camera was a Sony Alpha 200 entry-level DSLR (which I still have!) and I've owned an assortment of smaller digital cameras over the years.
