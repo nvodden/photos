@@ -1,4 +1,4 @@
-baseURL = 'https://photos.vodden.uk'
+baseURL = "https://nvodden.github.io/photos/"
 locale = 'en-us'
 title = ''
 theme = "gallery"
@@ -17,3 +17,6 @@ weight = 2
 name = "About"
 url = "/about/"
 weight = 3
+
+relativeURLs = true
+canonifyURLs = true
