@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Usage.md",
+                "file": "content/about.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Usage"
+              "title": "about"
             }
           }
         ]
@@ -185,6 +185,14 @@
   },
   "active": "5ecabf05d75aec43",
   "lastOpenFiles": [
+    "public/images/profile.jpg",
+    "hugo.toml.sb-ab4c2cc4-rErtE9",
+    "hugo.toml.sb-ab4c2cc4-uqeWZG",
+    "content/Usage.md",
+    "static/images/profile.jpg",
+    "static/images",
+    "static/untitled folder",
+    "hugo.toml.sb-ab4c2cc4-4q7fYz",
     "public/usage/index.html",
     "public/usage",
     "public/note/index.html",
@@ -193,22 +201,15 @@
     "hugo.toml.sb-ab4c2cc4-RDJ3l5",
     "content/about.md",
     "content/Galleries/Self/index.md",
-    "public/about/index.html",
-    "public/about",
     "public/galleries/self/shooting_hu_6ec3262d97bfa7fb.jpg",
     "resources/_gen/images/galleries/self/shooting_hu_6ec3262d97bfa7fb.jpg",
     "public/galleries/self/profile_hu_3c611a3672def83d.jpg",
     "public/galleries/self/profile_hu_1b65e781046dcaad.jpg",
     "resources/_gen/images/galleries/self/profile_hu_1b65e781046dcaad.jpg",
-    "resources/_gen/images/galleries/self/profile_806978dae486f3a3_meta.json",
     "resources/_gen/images/galleries/self/profile_hu_3c611a3672def83d.jpg",
-    "resources/_gen/images/galleries/self/shooting_e5f0005d6eb0c797.json",
-    "resources/_gen/images/galleries/self/profile_81f2802ce64adcf9.json",
     "public/galleries/self/shooting_hu_d1afe585ebd71c02.jpg",
     "public/galleries/self/shooting_hu_e7978e94cafd3558.jpg",
-    "resources/_gen/images/galleries/self/shooting_86ba1e073b7e472e_meta.json",
     "resources/_gen/images/galleries/self/shooting_hu_e7978e94cafd3558.jpg",
-    "resources/_gen/images/galleries/self/shooting_hu_d1afe585ebd71c02.jpg",
     "content/_about.md",
     "content/About/index.md",
     "content/About/about.md",
@@ -225,7 +226,6 @@
     "content/Galleries/Astro copy/index.md",
     "content/Galleries/Astro/_index.md",
     "content/private/index.md",
-    "content/Usage.md",
     "content/Galleries/Wildlife/_index.md",
     "content/Galleries/Action/_index.md",
     "content/Galleries/Nature/_index.md",
